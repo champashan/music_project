@@ -28,7 +28,7 @@
 * `music_model.pkl` — обученная модель.
 * `requirements.txt` — список зависимостей.
 
-### 🔬 Исследовательская часть (Model Training)
+###  Исследовательская часть (Model Training)
 Весь процесс анализа данных, визуализации признаков и обучения модели можно посмотреть в Google Colab:
 [ Открыть Google Colab Notebook](https://colab.research.google.com/drive/11k6x5ssmaDZMMZnnxqsMrWFPo54jv6K8?usp=sharing)
 
